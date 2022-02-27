@@ -1,16 +1,40 @@
-# README
+# PyUtils
 
-## This is the README for your extension pack "pyutils"
+```
+PyUtils is a collection of useful extensions for python developers.
+```
 
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+ > ⚠️ Some Extensions may not work on vscodium
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+## Extensions Included
+#
+### <u>right-hand man</u>
+<br>
 
-## For more information
+* [autoDocstring - Python Docstring Generator](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring) - Generates python docstrings automatically
+* [Python Path](https://marketplace.visualstudio.com/items?itemName=mgesbert.python-path) - Python imports utils.
+#
+### <u>code utils</u>
+<br>
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+* [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Visual Studio Code plugin that autocompletes filenames
+* [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) - Makes indentation easier to read
+* [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) - Improve highlighting of errors, warnings and other language diagnostics.
+#
+### <u>lint, refactor, debug</u>
+<br>
 
-**Enjoy!**
+* [Visual Studio Intellicode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) - AI-assisted development
+* [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance) - A performant, feature-rich language server for Python in VS Code
+* [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - python intellisense & linting
+
+#
+## Have a suggestion?
+<br>
+
+feel free to open a pull request!
+> 🔗 link: [<u>here</u>](https://github.com/ext8/PyUtils/pulls)
+#
+## License
+
+[<u>MIT</u>](LICENSE)
