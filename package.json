@@ -1,0 +1,36 @@
+{
+    "name": "pyutils",
+    "displayName": "PyUtils",
+    "description": "collection of useful python extensions",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "icon": "logo.png",
+    "keywords": [
+        "py",
+        "python",
+        "pyutils",
+        "extension pack"
+    ],
+    "extensionPack": [
+        "njpwerner.autodocstring",
+        "mgesbert.python-path",
+        "usernamehw.errorlens",
+        "oderwat.indent-rainbow",
+        "christian-kohler.path-intellisense",
+        "ms-python.vscode-pylance",
+        "ms-python.python",
+        "visualstudioexptteam.vscodeintellicode"
+    ],
+    "repository": {
+        "url": "https://github.com/ext8/PyUtils"
+    },
+    "homepage": "https://github.com/ext8/PyUtils",
+    "bugs": {
+        "url": "https://github.com/ext8/PyUtils/issues"
+    }
+}
